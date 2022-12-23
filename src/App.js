@@ -1,8 +1,9 @@
+import DataTable from "./DataTable";
 
 function App() {
   return (
     <div>
-     Hello Starwars
+     <DataTable />
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TableHeader = () => {
-    return (
+    return (        
     <tr>
       <th>Id</th>
       <th>FirstName</th>
@@ -14,3 +14,5 @@ const TableHeader = () => {
     </tr>
     )
 };
+
+export default TableHeader;
